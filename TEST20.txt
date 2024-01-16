@@ -1,0 +1,1 @@
+This is where the new text file will be created. The contents of this file are missing from the request, so they must be added in order to satisfy the requirements. The contents can include any text that the developer sees fit, but it's important to remember that all functions and classes should be fully implemented and complete unit tests should be written for them.
