@@ -1,0 +1,9 @@
+{
+  "name": "test-sweep-locally",
+  "version": "1.0.0",
+  "description": "A test for the sweep process.",
+  "main": "main.html",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
